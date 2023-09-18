@@ -1,0 +1,16 @@
+D:\babat\Source\KCSConsoleTest\bin\Debug\KCSConsoleTest.exe.config
+D:\babat\Source\KCSConsoleTest\bin\Debug\KCSConsoleTest.exe
+D:\babat\Source\KCSConsoleTest\bin\Debug\KCSConsoleTest.pdb
+D:\babat\Source\KCSConsoleTest\obj\Debug\KCSConsoleTest.csproj.AssemblyReference.cache
+D:\babat\Source\KCSConsoleTest\obj\Debug\KCSConsoleTest.csproj.SuggestedBindingRedirects.cache
+D:\babat\Source\KCSConsoleTest\obj\Debug\KCSConsoleTest.csproj.CoreCompileInputs.cache
+D:\babat\Source\KCSConsoleTest\obj\Debug\KCSConsoleTest.exe
+D:\babat\Source\KCSConsoleTest\obj\Debug\KCSConsoleTest.pdb
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\bin\Debug\KCSConsoleTest.exe.config
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\bin\Debug\KCSConsoleTest.exe
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\bin\Debug\KCSConsoleTest.pdb
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\obj\Debug\KCSConsoleTest.csproj.AssemblyReference.cache
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\obj\Debug\KCSConsoleTest.csproj.SuggestedBindingRedirects.cache
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\obj\Debug\KCSConsoleTest.csproj.CoreCompileInputs.cache
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\obj\Debug\KCSConsoleTest.exe
+D:\babat\Source\KCSConsoleTestProject\KCSConsoleTest\obj\Debug\KCSConsoleTest.pdb
