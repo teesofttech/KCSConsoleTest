@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCSConsoleTest", "KCSConsoleTest.csproj", "{5C72BB3A-6163-4C6C-8B8B-87D2DBCA189A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCSConsoleTest.UnitTest", "..\KCSConsoleTest.UnitTest\KCSConsoleTest.UnitTest.csproj", "{20ADEF5C-C133-4A56-B143-CD3567E37F5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C72BB3A-6163-4C6C-8B8B-87D2DBCA189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C72BB3A-6163-4C6C-8B8B-87D2DBCA189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C72BB3A-6163-4C6C-8B8B-87D2DBCA189A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20ADEF5C-C133-4A56-B143-CD3567E37F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20ADEF5C-C133-4A56-B143-CD3567E37F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20ADEF5C-C133-4A56-B143-CD3567E37F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20ADEF5C-C133-4A56-B143-CD3567E37F5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
